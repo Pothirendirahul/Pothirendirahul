@@ -22,4 +22,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pothirendirahul&show_icons=true&locale=en&layout=compact" alt="pothirendirahul" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pothirendirahul&show_icons=true&locale=en" alt="pothirendirahu" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pothirendirahul&show_icons=true&locale=en" alt="pothirendirahul" /></p>
+
