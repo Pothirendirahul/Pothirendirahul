@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pothirendirahul&label=Profile%20views&color=0e75b6&style=flat" alt="pothirendirahul" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pothirendirahul" alt="pothirendirahul" /></a> </p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Pothirendirahul&theme=onedark" alt="GitHub Streak" /></a>
 
 - 👨‍💻 All of my projects are available at [https://rahulpothirendi.vercel.app/](https://rahulpothirendi.vercel.app/)
 
@@ -23,6 +24,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pothirendirahul&show_icons=true&locale=en&layout=compact" alt="pothirendirahul" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pothirendirahul&show_icons=true&locale=en" alt="pothirendirahu" /></p>
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Pothirendirahul&theme=buefy-dark&hide_border=true" alt="GitHub Streak" /></a>
 
