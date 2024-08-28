@@ -10,6 +10,8 @@
 
 - 📫 How to reach me **pothirendi.r@northeastern.edu & rahulprasadjan@gmail.com**
 
+- 📫 How to reach me @rahulpothirendi Instagram
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rahulpothirendi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rahulpothirendi/" height="30" width="40" /></a>
