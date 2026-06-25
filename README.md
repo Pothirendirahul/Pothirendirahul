@@ -20,12 +20,12 @@ Currently open to **AI Engineer**, **Full Stack**, and **Backend SDE** roles.
 
 ## Experience
 
-**AI Engineer — Generative AI & EdTech** · Allstate · *May 2025 – Present · USA*
+**AI Engineer — Generative AI & EdTech** · UnitedHealth Group · *May 2025 – Present · USA*
 - Built distributed backend services integrating LLMs into enterprise products with **RAG pipelines**, LangChain/LangGraph, and prompt engineering — reducing manual processing by **40%**
 - Shipped AI-powered features rapidly using agentic coding tools; implemented evaluation and tracing pipelines with **MLflow** and AI Evals for continuous improvement
 - Deployed containerized services on **Azure & AWS** (Lambda, ECS, S3) with Docker, Kubernetes, and GitHub Actions CI/CD at **99.9% uptime** and **90%+ test coverage**
 
-**ML Engineer — LLM Infrastructure & Distributed Systems** · Citus Infotech · *Jul 2021 – Aug 2023 · India*
+**ML Engineer — LLM Infrastructure & Distributed Systems** · Adons Softech · *Jul 2021 – Aug 2023 · India*
 - Designed event-driven architectures with **Apache Kafka** and FastAPI backends serving **50K+ req/day** across **30,000+ users**
 - Built **BERT-based NLP models** for automated data extraction at **90% accuracy**; applied prompt engineering for domain-specific LLM optimization
 - Deployed on **Azure & AWS EKS** with Terraform; integrated Grafana/Prometheus/Loki for production AI monitoring; cut release cycles **50%** via GitHub Actions CI/CD
