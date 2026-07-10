@@ -1,4 +1,4 @@
-# Rahul Pothirendi
+# Sai Rahul Pothirendi
 
 **AI Engineer · Full Stack · LLM Infrastructure**  
 MS Software Engineering Systems @ Northeastern University · Boston, MA
