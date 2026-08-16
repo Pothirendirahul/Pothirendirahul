@@ -20,7 +20,7 @@ Currently open to **AI Engineer**, **Full Stack**, and **Backend SDE** roles.
 
 ## Experience
 
-**AI Engineer — Generative AI & EdTech** · UnitedHealth Group · *May 2025 – Present · USA*
+**AI Engineer — Generative AI & EdTech** · JP Morgan Chase · *May 2025 – Present · USA*
 - Built distributed backend services integrating LLMs into enterprise products with **RAG pipelines**, LangChain/LangGraph, and prompt engineering — reducing manual processing by **40%**
 - Shipped AI-powered features rapidly using agentic coding tools; implemented evaluation and tracing pipelines with **MLflow** and AI Evals for continuous improvement
 - Deployed containerized services on **Azure & AWS** (Lambda, ECS, S3) with Docker, Kubernetes, and GitHub Actions CI/CD at **99.9% uptime** and **90%+ test coverage**
