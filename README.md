@@ -11,7 +11,7 @@ MS Software Engineering Systems @ Northeastern University · Boston, MA
 
 ## About
 
-I build production AI systems — RAG pipelines, agentic workflows, and LLM-powered backends that ship into real enterprise products. At Allstate I work on Generative AI and EdTech features end-to-end: from prompt engineering and LangGraph orchestration to containerized deployments on Azure and AWS with full observability. I care about systems that are reliable, auditable, and actually useful at scale.
+I build production AI systems — RAG pipelines, agentic workflows, and LLM-powered backends that ship into real enterprise products. At JP Morgan Chase I work on Generative AI and EdTech features end-to-end: from prompt engineering and LangGraph orchestration to containerized deployments on Azure and AWS with full observability. I care about systems that are reliable, auditable, and actually useful at scale.
 
 Currently open to **AI Engineer**, **Full Stack**, and **Backend SDE** roles.
 
